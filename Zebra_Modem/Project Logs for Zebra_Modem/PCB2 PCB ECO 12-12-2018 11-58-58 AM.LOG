@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=Master Member=*
+Added Component: Designator=*?(PCIE-064-02-F-D-EMS2)
+Added Member To Class: ClassName=BoardPower Member=Component *? PCIE-064-02-F-D-EMS2

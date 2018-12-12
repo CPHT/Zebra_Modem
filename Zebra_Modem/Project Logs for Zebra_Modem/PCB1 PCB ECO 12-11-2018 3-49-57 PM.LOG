@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=P1 Old Footprint=MHDR1X14 New Footprint=HDR1X14
+Change Component Footprint: Designator=P2 Old Footprint=MHDR1X14 New Footprint=HDR1X14
+Change Component Comment : Designator=P1 Old Comment=MHDR1X14 New Comment=Header 14
+Change Component Comment : Designator=P2 Old Comment=MHDR1X14 New Comment=Header 14
+Added Room: Name=BoardPower
+Added Room: Name=Master
+Added Room: Name=Serial
