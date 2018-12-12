@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Zebra_Modem\Zebra_Modem.PrjPCB
+[Project2]
+ProjectPath=..\JC_ZebraModem\JC_Zebra_Modem.PrjPCB
