@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=*1-A31
+Removed Pin From Net: NetName=GND Pin=*1-A32
+Removed Pin From Net: NetName=GND Pin=P3-18
+Added Pin To Net: NetName=GND Pin=P3-15
+Added Pin To Net: NetName=NetP3_18 Pin=P3-18
+Added Net: Name=NetP3_18
+Added Member To Class: ClassName=Master Member=Component P3 Header 10X2
+Added Room: Name=BoardPower
