@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetP3_18 Pin=*1-A30
+Removed Pin From Net: NetName=NetC5_2 Pin=*1-A31
+Removed Pin From Net: NetName=GND Pin=*1-A32
+Removed Pin From Net: NetName=NetC5_2 Pin=*1-B31
+Change Component Comment : Designator=U1 Old Comment=L7986A New Comment=L7986ATR
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Added Component: Designator=P1(PCIE-064-02-F-D-EMS2)
+Change Net Name : Old Net Name=NetP2_8 New Net Name=NetP3_8
+Change Net Name : Old Net Name=NetP2_9 New Net Name=NetP3_9
+Change Net Name : Old Net Name=NetP2_13 New Net Name=NetP3_13
+Change Net Name : Old Net Name=NetP3_7 New Net Name=NetP4_7
+Change Net Name : Old Net Name=NetP3_8 New Net Name=NetP4_8
+Change Net Name : Old Net Name=NetP3_9 New Net Name=NetP4_9
+Change Net Name : Old Net Name=NetP3_10 New Net Name=NetP4_10
+Change Net Name : Old Net Name=NetP3_11 New Net Name=NetP4_11
+Change Net Name : Old Net Name=NetP3_13 New Net Name=NetP4_13
+Change Net Name : Old Net Name=NetP3_18 New Net Name=NetP1_3
+Added Member To Class: ClassName=BoardPower Member=Component P1 PCIE-064-02-F-D-EMS2_1
+Added Member To Class: ClassName=Master Member=Component P3 Header 14
+Added Member To Class: ClassName=Master Member=Component P5 MHDR1X3
+Added Member To Class: ClassName=BoardPower Member=Component R4 RES_49
+Added Room: Name=BoardPower
+Added Room: Name=Master
+Added Room: Name=Serial
